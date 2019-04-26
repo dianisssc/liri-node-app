@@ -1,0 +1,191 @@
+User Command: node liri.js movie-this Frozen
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Frozen
+Year Released: 27 Nov 2013
+IMBD Rating: 7.5
+Rotten Tomatoes Rating: undefined
+Country Produced: USA
+Language: English, Norwegian
+Plot: Anna, a fearless optimist, sets off on an epic journey - teaming up with rugged mountain man Kristoff and his loyal reindeer Sven - to find her sister Elsa, whose icy powers have trapped the kingdom of Arendelle in eternal winter. Encountering Everest-like conditions, mystical trolls and a hilarious snowman named Olaf, Anna and Kristoff battle the elements in a race to save the kingdom. From the outside Anna's sister, Elsa looks poised, regal and reserved, but in reality, she lives in fear as she wrestles with a mighty secret-she was born with the power to create ice and snow. It's a beautiful ability, but also extremely dangerous. Haunted by the moment her magic nearly killed her younger sister Anna, Elsa has isolated herself, spending every waking minute trying to suppress her growing powers. Her mounting emotions trigger the magic, accidentally setting off an eternal winter that she can't stop. She fears she's becoming a monster and that no one, not even her sister, can help her.
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+
+User Command: node liri.js movie-this LionKing
+
+ERROR: No movie info retrieved!User Command: /usr/local/Cellar/node/11.1.0/bin/node,/Users/dianis/Desktop/liri-node-app/liri-node-app/liri.js,song-this,one,love
+LIRI Response:
+
+Commands:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+ERROR: No movie info retrieved!User Command: node liri.js movie-this SnowWhite
+
+User Command: node liri.js movie-this SnowWhite
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The SnowWhite File
+Year Released: 08 Sep 2007
+IMBD Rating: N/A
+Rotten Tomatoes Rating: undefined
+Country Produced: UK, Germany
+Language: English
+Plot: The SnowWhite File is a musical film with a twist, shedding a new light onto the beloved story of SnowWhite. Somewhere in a long-forgotten corner of the Magic Archives a young magician discovers a secret file revealing the truth about the fairy tale. As it turns out the story, as we have known it, was actually a cover-up and the Wicked Queen nothing but the victim of a devious plot. But she certainly deserved what she got.
+Actors: Judith Williams, Andrew Alexander, Graham Hoadly, Maitland Chandler
+
+User Command: node liri.js movie-this SnowWhite
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The SnowWhite File
+Year Released: 08 Sep 2007
+IMBD Rating: N/A
+Rotten Tomatoes Rating: undefined
+Country Produced: UK, Germany
+Language: English
+Plot: The SnowWhite File is a musical film with a twist, shedding a new light onto the beloved story of SnowWhite. Somewhere in a long-forgotten corner of the Magic Archives a young magician discovers a secret file revealing the truth about the fairy tale. As it turns out the story, as we have known it, was actually a cover-up and the Wicked Queen nothing but the victim of a devious plot. But she certainly deserved what she got.
+Actors: Judith Williams, Andrew Alexander, Graham Hoadly, Maitland Chandler
+
+User Command: node liri.js movie-this frozen
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Frozen
+Year Released: 27 Nov 2013
+IMBD Rating: 7.5
+Rotten Tomatoes Rating: undefined
+Country Produced: USA
+Language: English, Norwegian
+Plot: Anna, a fearless optimist, sets off on an epic journey - teaming up with rugged mountain man Kristoff and his loyal reindeer Sven - to find her sister Elsa, whose icy powers have trapped the kingdom of Arendelle in eternal winter. Encountering Everest-like conditions, mystical trolls and a hilarious snowman named Olaf, Anna and Kristoff battle the elements in a race to save the kingdom. From the outside Anna's sister, Elsa looks poised, regal and reserved, but in reality, she lives in fear as she wrestles with a mighty secret-she was born with the power to create ice and snow. It's a beautiful ability, but also extremely dangerous. Haunted by the moment her magic nearly killed her younger sister Anna, Elsa has isolated herself, spending every waking minute trying to suppress her growing powers. Her mounting emotions trigger the magic, accidentally setting off an eternal winter that she can't stop. She fears she's becoming a monster and that no one, not even her sister, can help her.
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+
+User Command: node liri.js movie-this frozen
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Frozen
+Year Released: 27 Nov 2013
+IMBD Rating: 7.5
+Rotten Tomatoes Rating: undefined
+Country Produced: USA
+Language: English, Norwegian
+Plot: Anna, a fearless optimist, sets off on an epic journey - teaming up with rugged mountain man Kristoff and his loyal reindeer Sven - to find her sister Elsa, whose icy powers have trapped the kingdom of Arendelle in eternal winter. Encountering Everest-like conditions, mystical trolls and a hilarious snowman named Olaf, Anna and Kristoff battle the elements in a race to save the kingdom. From the outside Anna's sister, Elsa looks poised, regal and reserved, but in reality, she lives in fear as she wrestles with a mighty secret-she was born with the power to create ice and snow. It's a beautiful ability, but also extremely dangerous. Haunted by the moment her magic nearly killed her younger sister Anna, Elsa has isolated herself, spending every waking minute trying to suppress her growing powers. Her mounting emotions trigger the magic, accidentally setting off an eternal winter that she can't stop. She fears she's becoming a monster and that no one, not even her sister, can help her.
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+
+User Command: node liri.js movie-this rushhour
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Rushhour
+Year Released: N/A
+IMBD Rating: 5.9
+Rotten Tomatoes Rating: undefined
+Country Produced: Netherlands
+Language: N/A
+Plot: N/A
+Actors: N/A
+
+User Command: node liri.js my-tweets
+
+ERROR: retrieving user tweets -- [object Object]User Command: node liri.js movie-this rushhour
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Rushhour
+Year Released: N/A
+IMBD Rating: 5.9
+Rotten Tomatoes Rating: undefined
+Country Produced: Netherlands
+Language: N/A
+Plot: N/A
+Actors: N/A
+
+User Command: node liri.js movie-this rushhour
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Rushhour
+Year Released: N/A
+IMBD Rating: 5.9
+Rotten Tomatoes Rating: undefined
+Country Produced: Netherlands
+Language: N/A
+Plot: N/A
+Actors: N/A
+
+User Command: node liri.js movie-this rushhour
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Rushhour
+Year Released: N/A
+IMBD Rating: 5.9
+Rotten Tomatoes Rating: undefined
+Country Produced: Netherlands
+Language: N/A
+Plot: N/A
+Actors: N/A
+
+User Command: node liri.js movie-this americanmade
+
+ERROR: No movie info retrieved!User Command: node liri.js movie-this AmericanMade
+
+ERROR: No movie info retrieved!User Command: node liri.js movie-this AmericanMade
+
+ERROR: No movie info retrieved!User Command: node liri.js movie-this rushhour
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Rushhour
+Year Released: N/A
+IMBD Rating: 5.9
+Rotten Tomatoes Rating: undefined
+Country Produced: Netherlands
+Language: N/A
+Plot: N/A
+Actors: N/A
+
