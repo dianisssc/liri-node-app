@@ -189,3 +189,20 @@ Language: N/A
 Plot: N/A
 Actors: N/A
 
+User Command: node liri.js movie-this rushhour
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Rushhour
+Year Released: N/A
+IMBD Rating: 5.9
+Rotten Tomatoes Rating: undefined
+Country Produced: Netherlands
+Language: N/A
+Plot: N/A
+Actors: N/A
+

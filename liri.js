@@ -28,7 +28,7 @@ function spotifySong(song){
 			});
 			var search;
 			if(song === ''){
-				search = 'The Sign Of Ace';
+				search = 'One Love';
 			} else {
 				search = song;
 			}
